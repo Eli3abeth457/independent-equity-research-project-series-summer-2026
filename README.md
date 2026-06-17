@@ -1,2 +1,29 @@
-# independent-equity-research-project-series-summer-2026
-An ongoing independent summer project developing a series of mini equity research reports across technology, financial services, energy, consumer, and luxury sectors. Designed to strengthen valuation, financial analysis, and investment research skills, with reports published progressively on GitHub.
+# Independent Equity Research Project Series – Summer 2026
+
+A personal summer project consisting of a series of mini equity research reports covering companies across technology, financial services, energy, and luxury goods.
+
+The objective is to develop practical skills in:
+- Equity research
+- Valuation
+- Financial statement analysis
+- Industry analysis
+- Investment thesis development
+
+## Coverage
+
+| Company | Status |
+|----------|----------|
+| Microsoft | In Progress |
+| Alphabet | Planned |
+| JPMorgan Chase | Planned |
+| Visa | Planned |
+| BP | Planned |
+| Mastercard | Planned |
+| Amazon | Planned |
+| LVMH | Planned |
+
+*Reports will be added progressively throughout Summer 2026.*
+
+## Disclaimer
+
+This project is intended for educational purposes only and does not constitute investment advice.

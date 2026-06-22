@@ -1,5 +1,5 @@
-# Microsoft Corporation
+# Richemont Corporation
 
 Status: In Progress
 
-This folder contains the equity research report and supporting valuation materials for Microsoft Corporation.
+This folder contains the equity research report and supporting valuation materials for Richemont Corporation.

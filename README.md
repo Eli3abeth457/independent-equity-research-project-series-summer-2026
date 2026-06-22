@@ -13,7 +13,8 @@ The objective is to develop practical skills in:
 
 | Company | Status |
 |----------|----------|
-| Microsoft | In Progress |
+| Richemont | In Progress |
+| Microsoft | Planned|
 | Alphabet | Planned |
 | JPMorgan Chase | Planned |
 | Visa | Planned |
